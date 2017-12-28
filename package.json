@@ -1,0 +1,26 @@
+{
+    "name": "gcp-api-rate-limiter",
+    "version": "0.1.0",
+    "description": "No dependencies rate limiter for the Google Cloud Platform ",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/duizendstra/gcp-api-rate-limiter.git"
+    },
+    "keywords": [
+        "google",
+        "api",
+        "rate limiter"
+    ],
+    "author": "Jasper Duizendstra <jasper@duizendstra.com> (www.duizendstra.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/duizendstra/gcp-api-rate-limiter/issues"
+    },
+    "homepage": "https://github.com/duizendstra/gcp-api-rate-limiter#readme"
+}
