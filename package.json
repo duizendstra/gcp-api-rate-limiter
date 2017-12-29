@@ -1,6 +1,6 @@
 {
     "name": "gcp-api-rate-limiter",
-    "version": "0.1.0",
+    "version": "0.1.7",
     "description": "No dependencies rate limiter for the Google Cloud Platform ",
     "main": "index.js",
     "dependencies": {},

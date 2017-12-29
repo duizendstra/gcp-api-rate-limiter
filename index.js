@@ -21,6 +21,7 @@ function gcpApiRateLimiter(specs) {
     // the delay promise factory
     const delay = function (milliSeconds) {
         // set the promise to resolve after a timout in miliSeconds
+        console.log("delay %d", milliSeconds);
         return new Promise(function (resolve) {
             setTimeout(resolve, milliSeconds);
         });
